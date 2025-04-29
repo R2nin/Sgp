@@ -7,7 +7,6 @@ Cronograma vencimento em junho de 2025
 
 Diagramas de Caso de Uso
 
-![image](https://github.com/user-attachments/assets/3dd8133e-d6a5-461d-8716-7c6682bb9b63)
+![Caso de Uso SGP drawio](https://github.com/user-attachments/assets/ff5820ef-fe10-46ef-911f-aafdc326337e)
 
-
-![image](https://github.com/user-attachments/assets/fdcdee4e-5dec-494a-b274-fe13304157eb)
+![Features drawio](https://github.com/user-attachments/assets/b3bbffa5-ee7a-407d-b4c0-f5f3c0abe65a)
