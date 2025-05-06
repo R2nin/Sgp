@@ -17,8 +17,8 @@ MTC de um Sistema para auxilio no processo de inventario de Patrimônio
 
 # Cronograma do Projeto
 
-- Início: <b>05/10/2024</b>
-- Término: <b>10/11/2024</b>
+- Início: <b>04/05/2025</b>
+- Término: <b>10/06/2025</b>
 - Links:
 - https://docs.djangoproject.com/pt-br/5.1/
 - https://www.udemy.com/share/10bBZN3@dAw-4lYe8iiK0fjWGie4QjH2wlyW4W1pxkvETu61cJt77tqQKJkvsL4JyRAG31Du/
