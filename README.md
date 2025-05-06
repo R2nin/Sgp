@@ -11,9 +11,9 @@ Diagramas de Caso de Uso
 
 ![Features drawio](https://github.com/user-attachments/assets/b3bbffa5-ee7a-407d-b4c0-f5f3c0abe65a)
 
-# Inventario  -ALMOXARIFADO
+# Inventario  - Patrimônio
 
-MTC de um Sistema para auxilio no processo de inventario
+MTC de um Sistema para auxilio no processo de inventario de Patrimônio
 
 # Cronograma do Projeto
 
@@ -26,45 +26,43 @@ MTC de um Sistema para auxilio no processo de inventario
 - https://github.com/R2nin/learnlive-rag-starter
 - https://www.youtube.com/watch?v=G7xBSmR1Pjw&list=PLGFzROSPU9oWFatNJO6yY3V2AkIdIyhXV
 
-### Semana 1 (05/10 - 11/10)
-- [x] Estudo e Planejamento:
-- [x] Aprender os fundamentos de Flask ou Django. Definido Django . 119/250 (14/10/2024) 161/250 (15/10/2024) 250/250 (19/10/2024)
-- [x] Definir os requisitos do sistema.
-- [x] Desenhar o modelo de dados (6 tabelas). (Ver o PDF com o Modelo inicial)
+### Semana 1 (04/05 - 10/05)
+- [ ] Estudo e Planejamento:
+- [ ] Aprender os fundamentos de Flask ou Django. 
+- [ ] Definir os requisitos do sistema.
+- [ ] Desenhar o modelo de dados (6 tabelas). (Ver o PDF com o Modelo inicial)
 
 ![image](https://github.com/user-attachments/assets/86f065cc-6650-4fc9-a477-e96802f21cc5)
 
 
-- [x] <b>DIAGRAMA DE ATIVIDADES (FLUXOGRAMAS) - Exemplo: Consulta Patrimônio</b>
+- [ ] <b>DIAGRAMA DE ATIVIDADES (FLUXOGRAMAS) - Exemplo: Consulta Patrimônio</b>
 
 ![image](https://github.com/user-attachments/assets/daf99abc-b4cf-4193-adb4-196cf2ca8eef)
 
-- [x] Envio no Moodle do pre projeto. 
-### Semana 2 (12/10 - 18/10)
-- [x] Configuração do Ambiente:
-- [x] Configurar o ambiente de desenvolvimento.
-- [x] Criar o projeto base em Flask ou Django.
-- [x] Configurar o banco de dados (sugestão: PostgreSQL ou SQLite). Definindo a melhor estrategia.
+- [ ] Envio no Moodle do pre projeto. 
+### Semana 2 (11/05 - 17/10)
+- [ ] Configuração do Ambiente:
+- [ ] Configurar o ambiente de desenvolvimento.
+- [ ] Criar o projeto base em Flask ou Django.
+- [ ] Configurar o banco de dados (sugestão: PostgreSQL ou SQLite). Definindo a melhor estrategia.
 
-<b>Refeito o planejamento original:
-Optado por fazer uma sistema de inventario (controle de estoque). Motivo: Video do youtube e treinamento para projeto maior (falta de tempo) 28/10/2024 </b>
 
-### Semana 3 (19/10 - 25/10)
-- [x] Desenvolvimento Inicial:
-- [x] Implementar o modelo de dados no banco de dados.
-- [x] Criar as primeiras views e templates.
-- [x] Implementar a lógica de controle para as operações básicas (CRUD).
-### Semana 4 (26/10 - 01/11)
-- [x] Desenvolvimento Avançado:
-- [x] Adicionar funcionalidades adicionais (ex: autenticação de usuários).
+### Semana 3 (18/05 - 24/05)
+- [ ] Desenvolvimento Inicial:
+- [ ] Implementar o modelo de dados no banco de dados.
+- [ ] Criar as primeiras views e templates.
+- [ ] Implementar a lógica de controle para as operações básicas (CRUD).
+### Semana 4 (25/05 - 31/05)
+- [ ] Desenvolvimento Avançado:
+- [ ] Adicionar funcionalidades adicionais (ex: autenticação de usuários).
 - [ ] Melhorar a interface do usuário.
 - [ ] Testar e corrigir bugs.
-### Semana 5 (02/11 - 08/11)
+### Semana 5 (01/06 - 07/06)
 - [ ] Finalização e Testes:
 - [ ] Realizar testes finais.
 - [ ] Documentar o código.
 - [ ] Preparar o deploy (se necessário).
-### Semana 6 (09/11 - 10/11)
+### Semana 6 (08/06 - 09/06)
 - [ ] Revisão e Entrega:
 - [ ] Revisar todo o projeto.
 - [ ] Preparar a apresentação.
