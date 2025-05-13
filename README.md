@@ -27,9 +27,9 @@ MTC de um Sistema para auxilio no processo de inventario de Patrimônio
 - https://www.youtube.com/watch?v=G7xBSmR1Pjw&list=PLGFzROSPU9oWFatNJO6yY3V2AkIdIyhXV
 
 ### Semana 1 (04/05 - 10/05)
-- [ ] Estudo e Planejamento:
-- [ ] Aprender os fundamentos de Flask ou Django. 
-- [ ] Definir os requisitos do sistema.
+- [x] Estudo e Planejamento:
+- [x] Aprender os fundamentos de Flask ou Django. 
+- [x] Definir os requisitos do sistema.
 - [ ] Desenhar o modelo de dados (6 tabelas). (Ver o PDF com o Modelo inicial)
 
 ![image](https://github.com/user-attachments/assets/86f065cc-6650-4fc9-a477-e96802f21cc5)
