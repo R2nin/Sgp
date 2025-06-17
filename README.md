@@ -1,6 +1,6 @@
 # Sgp
 Sistema Gerenciador de Patrimônio
-Desenvolvimento de um programa feito em Python, usando React, typescript, para controle patrimonial
+Desenvolvimento de um programa feito em TypeScript, usando React, typescript, vite, para controle patrimonial
 Cronograma vencimento em junho de 2025
 ![Screenshot_20250310_222424_Telegram](https://github.com/user-attachments/assets/2253c27f-397e-4849-8238-f207cb7ae053)
 
@@ -19,12 +19,7 @@ MTC de um Sistema para auxilio no processo de inventario de Patrimônio
 
 - Início: <b>04/05/2025</b>
 - Término: <b>10/06/2025</b>
-- Links:
-- https://docs.djangoproject.com/pt-br/5.1/
-- https://www.udemy.com/share/10bBZN3@dAw-4lYe8iiK0fjWGie4QjH2wlyW4W1pxkvETu61cJt77tqQKJkvsL4JyRAG31Du/
-- https://www.youtube.com/watch?v=sNCbSTc55OI
-- https://github.com/R2nin/learnlive-rag-starter
-- https://www.youtube.com/watch?v=G7xBSmR1Pjw&list=PLGFzROSPU9oWFatNJO6yY3V2AkIdIyhXV
+
 
 ### Semana 1 (04/05 - 10/05)
 - [x] Estudo e Planejamento:
